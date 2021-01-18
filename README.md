@@ -1,12 +1,12 @@
 # UAS
 
 
-![1.png](/ss/1.png)
+![1.png](/SS/1.png)
 
-![2.png](/ss/2.png)
+![2.png](/SS/2.png)
 
-![3.png](/ss/3.png)
+![3.png](/SS/3.png)
 
-![4.png](/ss/4.png)
+![4.png](/SS/4.png)
 
-![5.png](/ss/5.png)
+![5.png](/SS/5.png)
