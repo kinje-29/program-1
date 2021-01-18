@@ -1,12 +1,12 @@
 # UAS
 
 
-![tambah.png](/ss/tambah.png)
+![1.png](/ss/1.png)
 
-![lihat.png](/ss/lihat.png)
+![2.png](/ss/2.png)
 
-![ubah.png](/ss/ubah.png)
+![3.png](/ss/3.png)
 
-![hapus.png](/ss/hapus.png)
+![4.png](/ss/4.png)
 
-![keluar.png](/ss/keluar.png)
+![5.png](/ss/5.png)
